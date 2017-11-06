@@ -1,0 +1,19 @@
+PODS:
+  - BFKit (1.10.0)
+  - LocalPod (0.0.1):
+    - BFKit
+
+DEPENDENCIES:
+  - LocalPod (from `../../LocalPod/`)
+
+EXTERNAL SOURCES:
+  LocalPod:
+    :path: ../../LocalPod/
+
+SPEC CHECKSUMS:
+  BFKit: bc58b74bc6825bb8c63b6901b88e3f73baf52701
+  LocalPod: a61f5453b2ec10e3e7a77f6865b91d4f0f89db2b
+
+PODFILE CHECKSUM: b70f1366bf9645365af8102eee98a28037f66fa7
+
+COCOAPODS: 1.1.0

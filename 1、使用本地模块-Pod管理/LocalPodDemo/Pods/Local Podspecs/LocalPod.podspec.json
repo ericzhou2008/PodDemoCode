@@ -1,0 +1,24 @@
+{
+  "name": "LocalPod",
+  "version": "0.0.1",
+  "summary": "A test description of LocalPod",
+  "description": "A test description of LocalPod test",
+  "homepage": "https://github.com/ericzhou2008",
+  "license": "MIT",
+  "authors": {
+    "周勇": "zhouyong525@pingan.com.cn"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "/LocalPod"
+  },
+  "source_files": "LocalPod/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "BFKit": [
+
+    ]
+  }
+}

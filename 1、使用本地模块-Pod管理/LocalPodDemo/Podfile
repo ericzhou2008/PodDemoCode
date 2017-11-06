@@ -1,0 +1,3 @@
+target 'LocalPodDemo' do
+	pod 'LocalPod', :path=>'../../LocalPod/' 	
+end
